@@ -1,0 +1,22 @@
+#paineis-sobre {
+    margin-top: 20px;
+}
+
+.titulo-depoimentos {
+    background: #0275D8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.group-radio,
+.contato-select{
+    width:50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.group-radio .radio:first-child {
+    margin-top: 0;
+}
